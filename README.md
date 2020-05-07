@@ -5,7 +5,7 @@ Neste caso utilizamos a API Current Weather Data da Open Weather que pode ser en
 
 Nosso site pode ser visto em: http://maisclima.atwebpages.com/index.html
 
-<img src="assets/mais_clima.jpg" width="400">
+<img src="assets/mais_clima.jpg" width="640">
 
 # Ferramentas:
   - HTML, CSS  e JavaScript
