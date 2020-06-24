@@ -18,27 +18,27 @@ function init(resultFromServer) {
     }
     if (resultFromServer.weather[0].main == 'Clouds') {
         document.body.style.backgroundImage = 'url("./assets/cloudy.jpg")';
-        artist.innerHTML = 'Page by Claudiney Martins / Photo by Brett Sayles from Pexels';
+        artist.innerHTML = 'Page by Claudiney Martins / Photo by Simon Matzinger from Pexels';
     }
 
     if (resultFromServer.weather[0].main == 'Mist') {
         document.body.style.backgroundImage = 'url("./assets/rain.jpg")';
-        artist.innerHTML = 'Page by Claudiney Martins / Photo by Brett Sayles from Pexels';
+        artist.innerHTML = 'Page by Claudiney Martins / Photo by João Cabral from Pexels';
     }
 
     if (resultFromServer.weather[0].main == 'Drizzle' || resultFromServer.weather[0].main == 'Rain') {
         document.body.style.backgroundImage = 'url("./assets/rain.jpg")';
-        artist.innerHTML = 'Page by Claudiney Martins / Photo by Brett Sayles from Pexels';
+        artist.innerHTML = 'Page by Claudiney Martins / Photo by Kaique Rocha from Pexels';
     }
 
     if (resultFromServer.weather[0].main == 'Snow') {
         document.body.style.backgroundImage = 'url("./assets/snow.jpg")';
-        artist.innerHTML = 'Page by Claudiney Martins / Photo by Brett Sayles from Pexels';
+        artist.innerHTML = 'Page by Claudiney Martins / Photo by  Mohan Reddy from Pexels';
     }
 
     if (resultFromServer.weather[0].main == 'Thunderstorm') {
         document.body.style.backgroundImage = 'url("./assets/storm.jpg")';
-        artist.innerHTML = 'Page by Claudiney Martins / Photo by Brett Sayles from Pexels';
+        artist.innerHTML = 'Page by Claudiney Martins / Photo by João Cabral from Pexels';
     }
 
    

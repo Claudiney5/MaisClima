@@ -12,6 +12,6 @@ Nosso site pode ser visto em: http://maisclima.atwebpages.com/index.html
 
 # Novas Funcionalidades e Correções a serem implementadas
   - aumentar o número de imganes selecionando randomicamente dentro de um grupo de imagens daquele clima;
-  - escolher entre imagens diurnas e norturnas conforme o horário da localidade pesquisada;
-  - correção: mostrar o nome correto do fotógrafo da imagem selecionada;
+  - escolher entre imagens diurnas e noturnas conforme o horário da localidade pesquisada;
+  - correção: mostrar o nome correto do fotógrafo da imagem selecionada [RESOLVIDO];
   - correção: alterar posição da consulta inicial.

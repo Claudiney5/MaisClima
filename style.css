@@ -26,8 +26,8 @@ body {
 #searchContainer {
     padding: 15px;
     position: absolute;
-    top: 0;
-    right: 0;
+    top: 10;
+    right: 100;
 }
 
 #searchContainer input {
@@ -35,7 +35,9 @@ body {
 }
 
 #searchContainer button {
-    background-color: rgb(41, 110, 128);
+    background-color: #1A20D2;
+    color: white;
+    font-style: bold;
     width: 75px;
 }
 
