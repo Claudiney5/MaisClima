@@ -45,7 +45,11 @@ body {
     box-shadow: 2px 2px 5px black;
     border: none;
     border-radius: 4px;
-    padding: 5px;
+    padding: 5px 10px;
+}
+
+#searchBtn:hover {
+    opacity: 0.8;
 }
 
 #weatherMain {

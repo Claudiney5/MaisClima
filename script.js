@@ -80,6 +80,9 @@ function setPositionWeatherInfo() {
 
 document.getElementById('searchBtn').addEventListener('click', () => {
     let searchTerm = document.getElementById('searchInput').value;
+    let searchField = document.getElementById('searchInput');
+    searchField.value = '';
+    searchField.focus();
     if(searchTerm)
        searchWeather(searchTerm);
 })
